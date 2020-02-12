@@ -1,6 +1,6 @@
 # PytorchLearning
 
-## 第一课 线形回归
+## 第一课 线性回归
 
 原版 [/Lesson1_LinearRegression/LinearRegression_Original.ipynb](https://github.com/Jinkeycode/PytorchLearning/blob/master/Lesson1_LinearRegression/LinearRegression_Original.ipynb)
 
