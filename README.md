@@ -10,3 +10,8 @@
 原版 [/Lesson2_Softmax/Softmax_Original.ipynb](https://github.com/Jinkeycode/PytorchLearning/blob/master/Lesson2_Softmax/Softmax_Original.ipynb)
 
 作业 [/Lesson2_Softmax/Softmax_Edited&Homework.ipynb](https://github.com/Jinkeycode/PytorchLearning/blob/master/Lesson2_Softmax/Softmax_Edited%26Homework.ipynb)
+
+## 第三课 多层感知机
+原版 [/Lesson3_MultilayerPerceptron/MultilayerPerceptron_Original.ipynb](https://github.com/Jinkeycode/PytorchLearning/blob/master/Lesson2_Softmax/Softmax_Original.ipynb)
+
+作业 [/Lesson3_MultilayerPerceptron/MultilayerPerceptron_Edited&Homework.ipynb](https://github.com/Jinkeycode/PytorchLearning/blob/master/Lesson2_Softmax/Softmax_Edited%26Homework.ipynb)
